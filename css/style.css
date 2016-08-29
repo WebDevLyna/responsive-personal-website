@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background: url("https://s17.postimg.org/d39cp9ren/toronto.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+}
+img {
+  margin: 50px;
+  padding: 0px;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+p {
+  font-size: 22px;
+  margin: 50px;
+}
+input {
+  border: 0;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
